@@ -54,4 +54,7 @@ function second_page(){
     window.location.replace("list.html")
 }          
 
+RegisterBtn.addEventListener("click", function(){
+    window.location.replace("signup.html")
+})
 
